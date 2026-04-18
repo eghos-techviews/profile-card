@@ -3,12 +3,11 @@
 Stage 1 Submission
 
 Live Demo
-	•	Profile Card (Stage 1B): https://github.com/eghos-techviews/testable-profile-card.git
+	•	Profile Card (Stage 1B): https://flourishing-sawine-4b005e.netlify.app/
 
 GitHub Repository
 
-https://github.com/eghos-techviews/testable-profile-card.git
-
+https://github.com/eghos-techviews/profile-card.git
 
 
 Overview
